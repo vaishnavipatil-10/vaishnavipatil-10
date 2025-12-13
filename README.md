@@ -11,10 +11,11 @@ Software Engineering student focused on building strong fundamentals in
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavipatil-10&show_icons=true&hide_rank=true)
 
 ## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipatil-10&layout=compact)
+
 
 ---
 
