@@ -8,16 +8,7 @@ Software Engineering student focused on building strong fundamentals in
 - 💻 Tech: C++, JavaScript, React, Node.js, MongoDB
 - 📈 Currently improving DSA and backend fundamentals
 
----
-
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavipatil-10&show_icons=true&hide_rank=true)
-
-## 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipatil-10&layout=compact)
-
-
----
 
 ## 📌 Focus Areas
 - Data Structures & Algorithms (C++)
