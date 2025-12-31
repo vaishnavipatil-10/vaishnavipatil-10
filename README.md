@@ -10,7 +10,13 @@ Software Engineering student focused on building strong fundamentals in
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavipatil-10&show_icons=true&hide_rank=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaishnavipatil-10&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaishnavipatil-10&theme=github_dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavipatil-10&theme=github-dark)
+
+
 
 ## 📌 Focus Areas
 - Data Structures & Algorithms (C++)
